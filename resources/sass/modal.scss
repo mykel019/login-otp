@@ -1,0 +1,11 @@
+.modal{
+  .btn-confirm{
+    @apply bg-[#b621fe] text-white;
+  }
+  .modal-header{
+    @apply border-b-0
+  }
+  .modal-footer{
+    @apply border-t-0;
+  }
+}
